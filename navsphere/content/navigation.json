@@ -38,6 +38,14 @@
           "description": "访问 bbs.hupu.com",
           "icon": "/assets/favicon_1772508766718.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508814239_1qczklndl",
+          "title": "龙的天空网络文学-龙空lkong.com",
+          "href": "https://www.lkong.com/?bid=269&mod=view",
+          "description": "龙的天空是历史最久持续时间最长的网络文学交流互动平台，专注网络文学最新最全资讯动态，为网站、编辑、作者、读者提供最专业最全面的网络文学网络小说资讯，提供最可靠最全面的投稿/收稿信息，是网络作者交流讨论小说创作和业界动态、网文读者交流小说评论阅读体验和推荐作品的网络文学网站。",
+          "icon": "/assets/favicon_1772508795719.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
