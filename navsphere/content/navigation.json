@@ -166,6 +166,14 @@
           "description": "Claude is Anthropic&#x27;s AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
           "icon": "/assets/favicon_1772509188813.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1772509219964_vyz2suh0o",
+          "title": "路灯iOS导航-苹果签名实用知识网址导航-各种iOS技巧-后厂村路灯 | 路灯iOS导航",
+          "href": "https://hao.eqishare.com/",
+          "description": "路灯IOS导航致力于苹果签名工具、软件源、iPA资源下载和分享，集苹果签名基础知识普及教学包括：苹果ID签名，证书签名，永久巨魔签名等，另外还整合实用iOS网址、iOS网盘、iPA资源、iOS破解等，做最稳定最优秀的iPA下载网站。",
+          "icon": "/assets/favicon_1772509205975.png",
+          "enabled": true
         }
       ],
       "subCategories": []
