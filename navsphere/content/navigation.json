@@ -134,6 +134,14 @@
           "description": "1024社区是一个探讨 Linux，Code，VPS，主机买卖等相关话题的网络社区。",
           "icon": "/assets/favicon_1772509105153.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772509135570_10addumrx",
+          "title": "Gost",
+          "href": "https://gost.sian.one/dashboard",
+          "description": "访问 gost.sian.one",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=gost.sian.one",
+          "enabled": true
         }
       ],
       "subCategories": []
