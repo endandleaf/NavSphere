@@ -251,10 +251,10 @@
         },
         {
           "id": "site_1772509480050_ii5qm9gr6",
-          "title": "N100-moonTV",
-          "href": "http://yrxc.dpdns.org:43961/",
-          "description": "访问 yrxc.dpdns.org",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yrxc.dpdns.org",
+          "title": "华为北京 moontv",
+          "href": "http://120.46.31.31:3005/",
+          "description": "访问 120.46.31.31",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=120.46.31.31",
           "enabled": true
         }
       ],
