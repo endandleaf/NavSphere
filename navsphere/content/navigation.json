@@ -277,10 +277,10 @@
       "items": [
         {
           "id": "site_1772509618743_zp44f08hv",
-          "title": "香港华为",
-          "href": "http://xg.175086.xyz:43969/lxy",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xg.175086.xyz",
+          "title": "北京华为",
+          "href": "http://120.46.31.31:43961/lxy123",
+          "description": "访问 120.46.31.31",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=120.46.31.31",
           "enabled": true
         }
       ],
