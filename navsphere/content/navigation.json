@@ -274,7 +274,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1772509618743_zp44f08hv",
+          "title": "香港华为",
+          "href": "http://xg.175086.xyz:43969/lxy",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xg.175086.xyz",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
