@@ -232,6 +232,14 @@
           "description": "访问 www.douyin.com",
           "icon": "/assets/favicon_1772509388792.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772509426482_uo2tahs1p",
+          "title": "虎牙",
+          "href": "https://www.huya.com/",
+          "description": "访问 www.huya.com",
+          "icon": "/assets/favicon_1772509409362.png",
+          "enabled": true
         }
       ],
       "subCategories": []
