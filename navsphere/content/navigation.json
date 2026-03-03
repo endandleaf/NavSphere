@@ -298,6 +298,14 @@
           "description": "访问 183.87.152.91",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=183.87.152.91",
           "enabled": true
+        },
+        {
+          "id": "site_1772510319940_55soagw2v",
+          "title": "飞牛爱快",
+          "href": "https://frp-now.com:63818/login",
+          "description": "访问 frp-now.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=frp-now.com",
+          "enabled": true
         }
       ],
       "subCategories": []
