@@ -86,6 +86,14 @@
           "description": "访问 www.tekqart.com",
           "icon": "/assets/favicon_1772508942892.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508983575_kymaukp5d",
+          "title": "阡陌居 -  Powered by Discuz!",
+          "href": "https://www.1000qm.vip/",
+          "description": "阡陌居",
+          "icon": "/assets/favicon_1772508969406.png",
+          "enabled": true
         }
       ],
       "subCategories": []
