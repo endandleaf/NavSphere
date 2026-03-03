@@ -1,14 +1,14 @@
-name = "navsphere"
-compatibility_date = "2024-11-11"
-compatibility_flags = ["nodejs_compat"]
+名称 = "导航球体"
+兼容日期 = "2024-11-11"
+兼容性标志 = ["nodejs兼容性"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23livnM5Dsj0iF5Rig"
 GITHUB_OWNER = "endandleaf"
 GITHUB_REPO = "NavSphere"
-GITHUB_BRANCH = "main"
+GITHUB_BRANCH = "主分支"
 GITHUB_SECRET = "8812e1c919bec3630ef7913a4c2a12cdfc0b28b7"
 NEXTAUTH_URL = "https://navsphere-c4y.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://dnavsphere-c4y.pages.dev"
+NEXT_PUBLIC_API_URL="https://navsphere-c4y.pages.dev"
 
