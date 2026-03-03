@@ -6,7 +6,16 @@
       "icon": "Globe",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1772508471197_4e4m5s45m",
+          "title": "微博",
+          "href": "https://weibo.com",
+          "description": "访问 weibo.com",
+          "icon": "/assets/favicon_1772508437425.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
