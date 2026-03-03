@@ -150,6 +150,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gkinto.com",
           "enabled": true
+        },
+        {
+          "id": "site_1772509186531_ulsi2rb9m",
+          "title": "Leaflow",
+          "href": "https://leaflow.net/launchpad",
+          "description": "访问 leaflow.net",
+          "icon": "/assets/favicon_1772509172431.png",
+          "enabled": true
         }
       ],
       "subCategories": []
