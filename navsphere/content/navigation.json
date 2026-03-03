@@ -46,6 +46,14 @@
           "description": "自由、平等、友好、开放、有趣的互联网交流社区",
           "icon": "/assets/favicon_1772508831414.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508866674_3afohi5xs",
+          "title": "NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "",
+          "icon": "/assets/favicon_1772508848717.png",
+          "enabled": true
         }
       ],
       "subCategories": []
