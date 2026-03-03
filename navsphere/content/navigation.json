@@ -62,6 +62,14 @@
           "description": "访问 www.52pojie.cn",
           "icon": "/assets/favicon_1772508872799.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508917379_oorr6f027",
+          "title": "恩山",
+          "href": "https://www.right.com.cn",
+          "description": "访问 www.right.com.cn",
+          "icon": "/assets/favicon_1772508895426.png",
+          "enabled": true
         }
       ],
       "subCategories": []
