@@ -248,6 +248,14 @@
           "description": "斗鱼 - 看见每种热爱 提供高清、快捷、流畅的视频直播和游戏赛事直播服务，包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种名家大神游戏直播，内容丰富，推送及时，带给你不一样的视听体验，一切尽在斗鱼 - 每个人的直播平台。",
           "icon": "/assets/favicon_1772509430233.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772509480050_ii5qm9gr6",
+          "title": "N100-moonTV",
+          "href": "http://yrxc.dpdns.org:43961/",
+          "description": "访问 yrxc.dpdns.org",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yrxc.dpdns.org",
+          "enabled": true
         }
       ],
       "subCategories": []
