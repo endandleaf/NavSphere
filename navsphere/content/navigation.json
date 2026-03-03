@@ -30,6 +30,14 @@
           "description": "",
           "icon": "/assets/favicon_1772508717359.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1772508759098_tndrsxepu",
+          "title": "百度贴吧",
+          "href": "https://tieba.baidu.com/",
+          "description": "访问 tieba.baidu.com",
+          "icon": "/assets/favicon_1772508738250.png",
+          "enabled": true
         }
       ],
       "subCategories": []
