@@ -256,6 +256,14 @@
           "description": "访问 120.46.31.31",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=120.46.31.31",
           "enabled": true
+        },
+        {
+          "id": "site_1772509566055_uo9p7sh04",
+          "title": "Lemon live",
+          "href": "https://lemonlive.deno.dev/huya",
+          "description": "",
+          "icon": "https://registry.npmmirror.com/lemon-mse/0.7.3/files/dist/lemon/logo.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
