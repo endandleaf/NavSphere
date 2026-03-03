@@ -78,6 +78,14 @@
           "description": "switch游戏下载-PC游戏下载-switch破解游戏下载-PC破解游戏下载-Switch520-gamer520",
           "icon": "/assets/favicon_1772508924025.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508966198_awzyawhj3",
+          "title": "品技",
+          "href": "https://www.tekqart.com/",
+          "description": "访问 www.tekqart.com",
+          "icon": "/assets/favicon_1772508942892.png",
+          "enabled": true
         }
       ],
       "subCategories": []
