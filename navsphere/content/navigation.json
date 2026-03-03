@@ -158,6 +158,14 @@
           "description": "访问 leaflow.net",
           "icon": "/assets/favicon_1772509172431.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772509202396_s7tkv0aai",
+          "title": "Claude",
+          "href": "https://claude.ai/new",
+          "description": "Claude is Anthropic&#x27;s AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+          "icon": "/assets/favicon_1772509188813.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
