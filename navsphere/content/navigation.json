@@ -200,7 +200,16 @@
       "icon": "Laptop",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1772509324404_k9h9tojkj",
+          "title": "腾讯视频",
+          "href": "https://v.qq.com/",
+          "description": "访问 v.qq.com",
+          "icon": "/assets/favicon_1772509280259.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
