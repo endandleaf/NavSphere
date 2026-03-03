@@ -9,6 +9,6 @@ GITHUB_OWNER = "endandleaf"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 GITHUB_SECRET = "8812e1c919bec3630ef7913a4c2a12cdfc0b28b7"
-NEXTAUTH_URL = "https://navsphere-c4y.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere-c4y.pages.dev"
+NEXTAUTH_URL = "https://dh.qpe.de5.net/api/auth"
+NEXT_PUBLIC_API_URL="https://dh.qpe.de5.net"
 
