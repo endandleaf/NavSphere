@@ -1,6 +1,6 @@
-名称 = "导航球体"
-兼容日期 = "2024-11-11"
-兼容性标志 = ["nodejs兼容性"]
+name = "navsphere"
+compatibility_date = "2024-11-11"
+compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
