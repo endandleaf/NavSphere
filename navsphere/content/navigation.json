@@ -22,6 +22,14 @@
           "description": "访问 zhihu.com",
           "icon": "/assets/favicon_1772508690538.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508732170_ncmixrroa",
+          "title": "小红书 - 你的生活兴趣社区",
+          "href": "https://www.xiaohongshu.com/explore",
+          "description": "",
+          "icon": "/assets/favicon_1772508717359.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
