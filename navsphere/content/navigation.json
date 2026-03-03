@@ -102,6 +102,14 @@
           "description": "访问 next.itellyou.cn",
           "icon": "/assets/favicon_1772508986226.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772509036344_vf240yiwz",
+          "title": "源社区",
+          "href": "https://pc.sysbbs.com/",
+          "description": "访问 pc.sysbbs.com",
+          "icon": "/assets/favicon_1772509018196.png",
+          "enabled": true
         }
       ],
       "subCategories": []
