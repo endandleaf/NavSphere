@@ -14,6 +14,14 @@
           "description": "访问 weibo.com",
           "icon": "/assets/favicon_1772508437425.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508708765_kkggo5h94",
+          "title": "知乎",
+          "href": "https://zhihu.com/",
+          "description": "访问 zhihu.com",
+          "icon": "/assets/favicon_1772508690538.png",
+          "enabled": true
         }
       ],
       "subCategories": []
