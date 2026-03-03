@@ -110,6 +110,14 @@
           "description": "访问 pc.sysbbs.com",
           "icon": "/assets/favicon_1772509018196.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772509062832_2bytkdt5k",
+          "title": "盘搜",
+          "href": "http://120.46.31.31:43880/",
+          "description": "访问 120.46.31.31",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=120.46.31.31",
+          "enabled": true
         }
       ],
       "subCategories": []
