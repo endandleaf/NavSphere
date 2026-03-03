@@ -94,6 +94,14 @@
           "description": "阡陌居",
           "icon": "/assets/favicon_1772508969406.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772509011653_x1rrd1wqz",
+          "title": "itellyou.msdn",
+          "href": "https://next.itellyou.cn/",
+          "description": "访问 next.itellyou.cn",
+          "icon": "/assets/favicon_1772508986226.png",
+          "enabled": true
         }
       ],
       "subCategories": []
