@@ -290,6 +290,14 @@
           "description": "访问 8.130.35.199",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=8.130.35.199",
           "enabled": true
+        },
+        {
+          "id": "site_1772510284709_g9k7m4zh9",
+          "title": "香港华为",
+          "href": "http://183.87.152.91:43969/lxy",
+          "description": "访问 183.87.152.91",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=183.87.152.91",
+          "enabled": true
         }
       ],
       "subCategories": []
