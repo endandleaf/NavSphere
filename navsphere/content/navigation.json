@@ -282,6 +282,14 @@
           "description": "访问 120.46.31.31",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=120.46.31.31",
           "enabled": true
+        },
+        {
+          "id": "site_1772510222955_vgpnqzaa4",
+          "title": "NPS阿里",
+          "href": "http://8.130.35.199:8080/login/index",
+          "description": "访问 8.130.35.199",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=8.130.35.199",
+          "enabled": true
         }
       ],
       "subCategories": []
