@@ -118,6 +118,14 @@
           "description": "访问 120.46.31.31",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=120.46.31.31",
           "enabled": true
+        },
+        {
+          "id": "site_1772509079785_yvmsfrxuo",
+          "title": "樱花落下导航",
+          "href": "https://dh.52cn.de/",
+          "description": "樱花落下导航页致力于简洁高效无广告的上网导航和搜索入口，沉淀最具价值链接，全站无商业推广，简约而不简单。",
+          "icon": "https://dh.52cn.de/./assets/img/logo.png",
+          "enabled": true
         }
       ],
       "subCategories": []
