@@ -70,6 +70,14 @@
           "description": "访问 www.right.com.cn",
           "icon": "/assets/favicon_1772508895426.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508938815_udvkbrzz4",
+          "title": "Switch520",
+          "href": "https://www.gamer520.com/",
+          "description": "switch游戏下载-PC游戏下载-switch破解游戏下载-PC破解游戏下载-Switch520-gamer520",
+          "icon": "/assets/favicon_1772508924025.png",
+          "enabled": true
         }
       ],
       "subCategories": []
