@@ -54,6 +54,14 @@
           "description": "",
           "icon": "/assets/favicon_1772508848717.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772508887016_l566hfatc",
+          "title": "52pojie",
+          "href": "https://www.52pojie.cn/",
+          "description": "访问 www.52pojie.cn",
+          "icon": "/assets/favicon_1772508872799.png",
+          "enabled": true
         }
       ],
       "subCategories": []
