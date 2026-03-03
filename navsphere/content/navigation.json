@@ -142,6 +142,14 @@
           "description": "访问 gost.sian.one",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=gost.sian.one",
           "enabled": true
+        },
+        {
+          "id": "site_1772509166296_36kxbpro2",
+          "title": "游戏大桶",
+          "href": "https://www.gkinto.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gkinto.com",
+          "enabled": true
         }
       ],
       "subCategories": []
