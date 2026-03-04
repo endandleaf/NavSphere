@@ -317,6 +317,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1772587946636",
+      "title": "搜索",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
