@@ -324,7 +324,16 @@
       "icon": "Globe",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1772587984126_76rfyolcr",
+          "title": "0x3",
+          "href": "https://0x3.com/",
+          "description": "0x3.com - Simple is Everything",
+          "icon": "/assets/favicon_1772587964579.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
