@@ -1,6 +1,24 @@
 {
   "navigationItems": [
     {
+      "id": "1772587946636",
+      "title": "搜索",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1772587984126_76rfyolcr",
+          "title": "0x3",
+          "href": "https://0x3.com/",
+          "description": "0x3.com - Simple is Everything",
+          "icon": "/assets/favicon_1772587964579.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1772508378227",
       "title": "论坛",
       "icon": "Globe",
@@ -313,24 +331,6 @@
           "href": "https://frp-now.com:48839",
           "description": "访问 frp-now.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=frp-now.com",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1772587946636",
-      "title": "搜索",
-      "icon": "Globe",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1772587984126_76rfyolcr",
-          "title": "0x3",
-          "href": "https://0x3.com/",
-          "description": "0x3.com - Simple is Everything",
-          "icon": "/assets/favicon_1772587964579.ico",
           "enabled": true
         }
       ],
