@@ -74,6 +74,14 @@
           "enabled": true
         },
         {
+          "id": "site_1772672149713_nti8mg66c",
+          "title": "Linux.do",
+          "href": "https://linux.do/latest",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1772672119972.png",
+          "enabled": true
+        },
+        {
           "id": "site_1772508887016_l566hfatc",
           "title": "52pojie",
           "href": "https://www.52pojie.cn/",
@@ -207,14 +215,6 @@
           "href": "https://500px.com.cn/",
           "description": "访问 500px.com.cn",
           "icon": "/assets/favicon_1772509249176.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1772672149713_nti8mg66c",
-          "title": "Linux.do",
-          "href": "https://linux.do/latest",
-          "description": "访问 linux.do",
-          "icon": "/assets/favicon_1772672119972.png",
           "enabled": true
         }
       ],
