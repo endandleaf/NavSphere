@@ -14,6 +14,14 @@
           "description": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
           "icon": "/assets/favicon_1773646714609.png",
           "enabled": true
+        },
+        {
+          "id": "site_1773646760733_fs4s1m1cv",
+          "title": "Google",
+          "href": "https://www.google.com/",
+          "description": "访问 www.google.com",
+          "icon": "/assets/favicon_1773646754161.png",
+          "enabled": true
         }
       ],
       "subCategories": []
