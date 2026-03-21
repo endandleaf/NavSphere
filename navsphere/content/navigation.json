@@ -348,6 +348,14 @@
           "description": "访问 frp-now.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=frp-now.com",
           "enabled": true
+        },
+        {
+          "id": "site_1774080908921_lacki7n82",
+          "title": "N100",
+          "href": "http://116.206.178.243:10913/",
+          "description": "访问 116.206.178.243",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=116.206.178.243",
+          "enabled": true
         }
       ],
       "subCategories": []
