@@ -22,6 +22,14 @@
           "description": "访问 www.google.com",
           "icon": "/assets/favicon_1773646754161.png",
           "enabled": true
+        },
+        {
+          "id": "item-1777430862036",
+          "enabled": true,
+          "title": "今日新闻_百度搜索",
+          "href": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%97%BB&oq=%25E7%2583%25AD%25E6%25A6%259C&rsv_pq=cb117ac80000c000&rsv_t=6a16ESP5V%2BNjijhGkQbo7xsO75w3ay6NE5ceypfThmlK9LcNAureUmF4cvY&rqlang=cn&rsv_enter=1&rsv_dl=tb_pre&rsv_btype=t&inputT=8551&rsv_sug3=17&rsv_sug1=17&rsv_sug7=100&bs=%E7%83%AD%E6%A6%9C",
+          "description": "访问 www.baidu.com",
+          "icon": "/assets/favicon_1777430851261.png"
         }
       ],
       "subCategories": []
