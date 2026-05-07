@@ -240,6 +240,14 @@
           "href": "https://www.lkong.com/",
           "description": "龙的天空是历史最久持续时间最长的网络文学交流互动平台，专注网络文学最新最全资讯动态，为网站、编辑、作者、读者提供最专业最全面的网络文学网络小说资讯，提供最可靠最全面的投稿/收稿信息，是网络作者交流讨论小说创作和业界动态、网文读者交流小说评论阅读体验和推荐作品的网络文学网站。",
           "icon": "/assets/favicon_1777428863038.ico"
+        },
+        {
+          "id": "item-1778122011629",
+          "enabled": true,
+          "title": "硬件讨论 飞牛私有云论坛 fnOS",
+          "href": "https://club.fnnas.com/forum.php?mod=forumdisplay&fid=18",
+          "description": "访问 club.fnnas.com",
+          "icon": "/assets/favicon_1778121977551.png"
         }
       ],
       "subCategories": []
