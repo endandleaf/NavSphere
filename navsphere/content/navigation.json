@@ -248,6 +248,14 @@
           "href": "https://club.fnnas.com/forum.php?mod=forumdisplay&fid=18",
           "description": "访问 club.fnnas.com",
           "icon": "/assets/favicon_1778121977551.png"
+        },
+        {
+          "id": "item-1786418884605",
+          "enabled": true,
+          "title": "书城 · 起点阅读",
+          "href": "http://103.236.85.8:7878/home.php",
+          "description": "访问 103.236.85.8",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=103.236.85.8"
         }
       ],
       "subCategories": []
