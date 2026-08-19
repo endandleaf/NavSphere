@@ -388,6 +388,14 @@
           "description": "访问 116.206.178.243",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=116.206.178.243",
           "enabled": true
+        },
+        {
+          "id": "item-1787104444835",
+          "enabled": true,
+          "title": "1Panel",
+          "href": "http://192.168.1.50:43962/lxy",
+          "description": "访问 192.168.1.50",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.50"
         }
       ],
       "subCategories": []
