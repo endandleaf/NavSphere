@@ -8,6 +8,7 @@ GITHUB_CLIENT_ID = "Ov23livnM5Dsj0iF5Rig"
 GITHUB_OWNER = "endandleaf"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
+GITHUB_CLIENT_SECRET = "040af438ef19ee00e8bea26a56fd68107dd7a0cf"
 NEXTAUTH_URL = "https://dh.qread.ggff.net/api/auth"
 NEXT_PUBLIC_API_URL="https://dh.qread.ggff.net"
 
